@@ -11,8 +11,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ashika98/ashika98.git](https://github.com/ashika98/ashika98.git)
-
+- 
 - 💬 Ask me about **Frontend Web Developing**
 
 - 📫 How to reach me **prasadiashika16@gmail.com**
