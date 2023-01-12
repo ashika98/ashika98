@@ -1,4 +1,4 @@
-![MasterHead](https://www.digitalsolutionservices.com/img/services/website1.gif)
+![MasterHead](https://media0.giphy.com/media/pLiyRPqPyxy7e/giphy.gif)
 
 <img src="https://www.careerguide.com/career/wp-content/uploads/2021/01/coding_gif.gif" alt="Trulli" width="300" align="right" >
 
