@@ -1,6 +1,6 @@
 ![MasterHead](https://camo.githubusercontent.com/d4902b57b5e2549993dfc819375943915f4a4bd1c2b3718f894547e1910c3e2e/68747470733a2f2f63686b736b696c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f62616e6e65722d62672e676966)
 
-<img src="https://www.careerguide.com/career/wp-content/uploads/2021/01/coding_gif.gif" alt="Trulli" width="300" align="right" >
+
 
 <h1 align="center">Hi 👋, I'm Ashika Kannangara</h1>
 <h3 align="center">A Software Engineering Student from Sri Lanka</h3>
