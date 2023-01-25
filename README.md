@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashika98&label=Profile%20views&color=0e75b6&style=flat" alt="ashika98" /> </p>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning -->**MERN Stack**
 
  
 - 💬 Ask me about **Frontend Web Developing**
