@@ -7,10 +7,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashika98&label=Profile%20views&color=0e75b6&style=flat" alt="ashika98" /> </p>
 
-- 🌱 I’m currently learning -->**MERN Stack**
+- 🌱 I’m currently learning -->**WEB DEVELOPMENT**
 
  
-- 💬 Ask me about **Frontend Web Developing**
+- 💬 Ask me about **IT focused Project Management and Quality Assurane**
 
 - 📫 How to reach me **prasadiashika16@gmail.com**
 
