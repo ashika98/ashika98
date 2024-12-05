@@ -3,7 +3,9 @@
 
 
 <h1 align="center">Hi 👋, I'm Ashika Kannangara</h1>
-<h3 align="center">A Software Engineering Student from Sri Lanka</h3>
+<h3 align="center">A Business Analyst from Sri Lanka</h3>
+<h6 align="center">Contact Me for Solutions</h6>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashika98&label=Profile%20views&color=0e75b6&style=flat" alt="ashika98" /> </p>
 
