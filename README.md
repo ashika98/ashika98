@@ -4,17 +4,17 @@
 
 <h1 align="center">Hi 👋, I'm Ashika Kannangara</h1>
 <h3 align="center">A Business Analyst from Sri Lanka</h3>
-<h6 align="center">Contact Me for Solutions</h6>
+<h5 align="center"> - Contact Me for Solutions - </h5>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashika98&label=Profile%20views&color=0e75b6&style=flat" alt="ashika98" /> </p>
 
-- 🌱 I’m currently learning -->**WEB DEVELOPMENT**
+- 🌱 
 
  
 - 💬 Ask me about **IT focused Project Management and Quality Assurane**
 
-- 📫 How to reach me **prasadiashika16@gmail.com**
+- 📫 How to reach me **ash.kannangara@gmail.com**
 
 
 <p align="left">
