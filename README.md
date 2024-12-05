@@ -20,4 +20,4 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashika98&show_icons=true&locale=en" alt="ashika98" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashika98&show_icons=true&locale=en" alt="ashika98" /></p><img src="/path/exclamation-mark.svg" alt="Exclamation mark">
